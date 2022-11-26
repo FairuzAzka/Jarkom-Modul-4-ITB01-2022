@@ -15,14 +15,13 @@ Jarkom-Modul-3-ITB01-2022
 <br>
 
 # :large_blue_circle: **VLSM** :large_blue_circle: 
-Blabla
-
 ### :triangular_flag_on_post: **Topologi VLSM**
-<img src=".....">
+<img src="/img/VLSM.png">
 <br>
 
 ### :triangular_flag_on_post: **Tabel VLSM**
-<img src=".....">
+Dalam menyelesaikan soal VLSM, Kami menggunakan Cisco Packet Tracer. Kami urutkan terlebih dahulu node yang membutuhkan paling banyak host. Kemudian kita menggunakan table tersebut untuk menentukan subnet mask pada PC Guideau. Karena PC Guideau membutuhkan 1000 host, sehingga kita memiliki subnet mask /22. Begitu pun seterusnya sehingga kita mendapatkan data sebagai berikut:
+<img src="/img/Tabel-VLSM.png">
 <br>
 
 ### :rocket: **Contoh Konfigurasi IP dan Gateway PC** 
