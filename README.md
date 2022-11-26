@@ -29,6 +29,12 @@ Blabla
 <img src=".....">
 <br>
 
+### :rocket: **Contoh Demo dari PC Phanora ke PC Ashaf** 
+<img src=".....">
+<br>
+
+
+
 
 # :large_blue_circle: **CIDR** :large_blue_circle:
 Blabla
