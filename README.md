@@ -74,8 +74,8 @@ Pada router The Minister, atur routing mengarah ke SubnetA7:
 
 ### :rocket: **Contoh Demo dari PC Phanora ke PC Ashaf** 
 Berikut merupakan contoh demo mengirim paket dari PC phanora ke PC Ashaf:
-<img src="/img/contohPhanoraKeAshaf">
-<img src="/img/contohPhanoraKeAshaf2">
+<img src="/img/contohPhanoraKeAshaf.jpg">
+<img src="/img/contohPhanoraKeAshaf2.jpg">
 <br>
 
 
