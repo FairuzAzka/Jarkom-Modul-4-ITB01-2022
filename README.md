@@ -49,12 +49,27 @@ Dan pada server1 akan di konfigurasikan ip sebagai berikut
 <img src="/img/Server1.png">
 <br>
 
-### :rocket: **Contoh Konfigurasi IP dan Gateway PC** 
-<img src=".....">
+### :rocket: **Konfigurasi dari TheMinister ke pc** 
+Pada router The Minister, atur interface yang mengarah ke PC Guideau:
+<img src="/img/TheMinister-Fa00-keGuideau.png">
 <br>
 
-### :rocket: **Contoh Konfigurasi Gateway dan Routing Router** 
-<img src=".....">
+### :rocket: **Konfigurasi dari TheMinister ke Router** 
+Pada router The Minister, atur interface yang mengarah ke router Dauntless:
+<img src="/img/TheMinister-Fa01-keRouterDauntless.png">
+<br>
+
+Pada router The Minister, atur interface yang mengarah ke router TheOrder:
+<img src="/img/TheMinister-Fa01-keRouterTheOrder.png">
+<br>
+
+### :rocket: **Routing TheMinister ke subnet** 
+Pada router The Minister, atur routing mengarah ke SubnetA2:
+<img src="/img/TheMinister-Routing-keSubnetA2.png">
+<br>
+
+Pada router The Minister, atur routing mengarah ke SubnetA7:
+<img src="/img/TheMinister-Routing-keSubnetA7.png">
 <br>
 
 ### :rocket: **Contoh Demo dari PC Phanora ke PC Ashaf** 
