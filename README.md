@@ -28,6 +28,27 @@ Dalam menyelesaikan soal VLSM, Kami menggunakan Cisco Packet Tracer. Kami urutka
 Berdasarkan table yang telah kami buat dapat ditentukan Tree dari VLSM sebagai berikut:
 <img src="/img/Tree-VLSM.png">
 
+### :rocket: **Konfigursi Network** 
+Pada router TheWitch akan di konfigurasikan ip sebagai berikut
+<img src="/img/TheWitch.png">
+<br>
+
+Pada PC Ashaf akan di konfigurasikan ip sebagai berikut
+<img src="/img/Ashaf.png">
+<br>
+
+Pada PC Guideau akan di konfigurasikan ip sebagai berikut
+<img src="/img/Guideau.png">
+<br>
+
+Pada PC Johan akan di konfigurasikan ip sebagai berikut
+<img src="/img/Johan.png">
+<br>
+
+Dan pada server1 akan di konfigurasikan ip sebagai berikut
+<img src="/img/Server1.png">
+<br>
+
 ### :rocket: **Contoh Konfigurasi IP dan Gateway PC** 
 <img src=".....">
 <br>
