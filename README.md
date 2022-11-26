@@ -9,6 +9,10 @@ Jarkom-Modul-3-ITB01-2022
 | 	:adult: Muhammad Firdho Kustiawan | 5027201005     | 
 <br/>
 
+# :large_blue_circle: **Topologi Soal Shift 4.1** :large_blue_circle: 
+
+<img src="/img/soal_shift_4.1.png">
+<br>
 
 # :large_blue_circle: **VLSM** :large_blue_circle: 
 Blabla
