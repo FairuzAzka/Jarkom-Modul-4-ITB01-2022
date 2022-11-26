@@ -84,7 +84,7 @@ Berikut merupakan contoh demo mengirim paket dari PC phanora ke PC Ashaf:
 # :large_blue_circle: **CIDR** :large_blue_circle:
 
 ### :triangular_flag_on_post: **Topologi CIDR**
-### :triangular_flag_on_post: **Langkah-Langkah Topologi CIDR**
+**Langkah-Langkah Topologi CIDR**
 <img src="/img/CIDR-Langkah1.png">
 <img src="/img/CIDR-Langkah2.png">
 <img src="/img/CIDR-Langkah3.png">
