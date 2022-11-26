@@ -24,6 +24,10 @@ Dalam menyelesaikan soal VLSM, Kami menggunakan Cisco Packet Tracer. Kami urutka
 <img src="/img/Tabel-VLSM.png">
 <br>
 
+### :rocket: **Tree pada VLSM** 
+Berdasarkan table yang telah kami buat dapat ditentukan Tree dari VLSM sebagai berikut:
+<img src="/img/Tree-VLSM.png">
+
 ### :rocket: **Contoh Konfigurasi IP dan Gateway PC** 
 <img src=".....">
 <br>
