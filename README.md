@@ -51,13 +51,21 @@ Blabla
 <br>
 
 ### :triangular_flag_on_post: **Tabel CIDR**
-<img src=".....">
+Untuk pembagian IP pada tabel CIDR di bawah ini kami membagi IP beserta prefix nya sesuai dengan topologi pembagian di atas 
+<img src="/img/Tabel-CIDR.png">
+Dan berikut juga merupakan tahapan kami mengelompokkan subnet-subnet menjadi satu dalam bentuk tabel
+<img src="/img/steppembagian.png">
 <br>
 
+
 ### :rocket: **Contoh Konfigurasi IP dan Gateway PC** 
-<img src=".....">
+Kami masih terdapat error ketika menyoba konfigurasi 1 subnet
 <br>
 
 ### :rocket: **Contoh Konfigurasi Gateway dan Routing Router** 
-<img src=".....">
+Kami masih terdapat error ketika menyoba konfigurasi 1 subnet
 <br>
+
+
+# :large_blue_circle: **KENDALA** :large_blue_circle:
+Kami masih belom mengetahui bagaimana cara konfigurasi di CIDR
